@@ -1,4 +1,4 @@
-##idcq-kmc
+## idcq-kmc
 Image Dependent Color Quantization Using K-means Clustering.
 
 ## About
