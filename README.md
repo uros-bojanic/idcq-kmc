@@ -13,7 +13,7 @@ Read more in the project [summary](https://drive.google.com/file/d/10HmKWdT0Rqf9
 
 ## Results
 
-We used our method to compress 5 standard public-domain test images :
+We used our method to compress 5 standard public-domain test images :<br />
 <img src="Results/1/image.png" width="100">&nbsp;<img src="Results/2/image.png" width="100">&nbsp;<img src="Results/3/image.png" width="100">&nbsp;<img src="Results/4/image.png" width="100">&nbsp;<img src="Results/5/image.png" width="100">
 
 Compressed images are located in `/Results/`.
