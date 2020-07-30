@@ -16,6 +16,7 @@ Read more in the project [summary](https://drive.google.com/file/d/10HmKWdT0Rqf9
 We used our method to compress 5 standard public-domain test images :
 1. lenna.png
 <img src="Results/1/image.png" alt="drawing" width="100"/>
+<img src="Results/1/image.png" alt="drawing" width="100"/>
 2. peppers.png
 3. baboon.png
 4. sails.png
