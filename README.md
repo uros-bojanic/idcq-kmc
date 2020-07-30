@@ -26,8 +26,7 @@ We used our method to compress 5 standard public-domain test images :
 <img src="Results/5/image.png" width="100">
 
 <img src="Results/1/image.png" width="100">&nbsp;<img src="Results/2/image.png" width="100">&nbsp;<img src="Results/3/image.png" width="100">&nbsp;<img src="Results/4/image.png" width="100">&nbsp;<img src="Results/5/image.png" width="100">
-
-lenna.png peppers.png baboon.png sails.png frymire.png
+<br />lenna.png &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;peppers.png baboon.png sails.png frymire.png
 
 Compressed images are located in `/Results/`.
 
