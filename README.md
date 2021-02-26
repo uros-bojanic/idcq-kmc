@@ -1,9 +1,9 @@
 ## idcq-kmc
-Image Dependent Color Quantization Using K-means Clustering.
+Image compression by color quantization using k-means clustering algorithm.
 
 ## About
 
-This project was done as homework on Practicum in Physics 2 at University of Belgrade, School of Electrical Engineering, in May 2020.
+Homework/project in **Practicum in Physics 2 (13E061PF2)** at University of Belgrade, School of Electrical Engineering.
 
 ## Method
 
